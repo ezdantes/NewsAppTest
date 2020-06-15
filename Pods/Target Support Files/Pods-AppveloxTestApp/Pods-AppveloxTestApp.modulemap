@@ -1,0 +1,6 @@
+framework module Pods_AppveloxTestApp {
+  umbrella header "Pods-AppveloxTestApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
